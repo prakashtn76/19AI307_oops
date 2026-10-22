@@ -41,8 +41,8 @@ To design a unified controller system using Java Interfaces where different gami
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: AJMAL ALI S
-RegisterNumber: 212224100003
+Developed by: THIRUMALAI PRAKASH P
+RegisterNumber: 212224020057
 */
 ```
 
