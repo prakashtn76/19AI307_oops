@@ -25,8 +25,8 @@ To write a Java program that finds the absolute value of a given number using th
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Arshiya M
-RegisterNumber: 212224040029
+Developed by: Thirumalai Prakash P
+RegisterNumber: 212224020057
 */
 ```
 
