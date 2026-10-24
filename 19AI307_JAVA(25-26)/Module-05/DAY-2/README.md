@@ -32,8 +32,8 @@ To write a Java program that serializes a collection of Student objects (ArrayLi
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: AJMAL ALI S
-RegisterNumber: 212224100003
+Developed by: THIRUMALAI PRAKASH P
+RegisterNumber: 212224020057
 */
 ```
 
